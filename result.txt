@@ -1,0 +1,3 @@
+The distance between face1.jpg and example.jpg is 0.38814534056854766.
+The distance between face1.jpg and face2.jpg is 0.5217690238546386.
+The distance between face1.jpg and face3.jpg is 0.33821849196047654.
